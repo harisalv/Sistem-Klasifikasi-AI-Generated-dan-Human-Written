@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+lime
+shap
+langdetect
+numpy
+scikit-learn
+tqdm
+matplotlib
+seaborn
